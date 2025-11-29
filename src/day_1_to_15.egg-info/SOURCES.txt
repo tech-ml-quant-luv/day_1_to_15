@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-src/day_1_to_15/__init__.py
-src/day_1_to_15/main.py
-src/day_1_to_15.egg-info/PKG-INFO
-src/day_1_to_15.egg-info/SOURCES.txt
-src/day_1_to_15.egg-info/dependency_links.txt
-src/day_1_to_15.egg-info/entry_points.txt
-src/day_1_to_15.egg-info/top_level.txt

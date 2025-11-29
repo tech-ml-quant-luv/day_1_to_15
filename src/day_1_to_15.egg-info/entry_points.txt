@@ -1,2 +1,0 @@
-[console_scripts]
-start = day_1_to_15.main:main

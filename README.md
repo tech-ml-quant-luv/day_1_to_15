@@ -1,5 +1,18 @@
 # Project Setup Guide
 
+This file explains how to set up the project from scratch after cloning, create and activate a virtual environment, install dependencies from `requirements.txt`, run the project, update dependencies, and access the documentation (PDF). Copy this directly into `README.md`.
+
+---
+
+## 📘 Important: Read Our Three Step Process
+
+This repository includes a document named:
+
+
+
+
+# Project Setup Guide
+
 This file explains how to set up the project from scratch after cloning, create and activate a virtual environment, install dependencies from `requirements.txt`, run the project, update dependencies, and common troubleshooting tips. Copy this into `README.md` at the root of your repo.
 
 ---

@@ -1,0 +1,5 @@
+{"level":"ERROR","location":"[access_token_to_hsmtoken:287] data_ws","message":{"type":"cn","code":-300,"message":"Please provide valid token","s":"error"},"timestamp":"2025-12-04 12:18:48,261+0530","service":"FyersDataSocket","taskName":"Task-492"}
+{"level":"ERROR","location":"[access_token_to_hsmtoken:287] data_ws","message":{"type":"cn","code":-300,"message":"Please provide valid token","s":"error"},"timestamp":"2025-12-04 12:19:03,263+0530","service":"FyersDataSocket","taskName":"Task-498"}
+{"level":"ERROR","location":"[__symbol_conversion:1334] data_ws","message":{"code":-300,"message":"Please provide valid token","s":"error","type":"sub"},"timestamp":"2025-12-04 12:20:57,139+0530","service":"FyersDataSocket","taskName":"Task-588"}
+{"level":"ERROR","location":"[__symbol_conversion:1334] data_ws","message":{"code":-300,"message":"Please provide valid token","s":"error","type":"sub"},"timestamp":"2025-12-04 12:21:09,078+0530","service":"FyersDataSocket","taskName":"Task-627"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"Connection to remote host was lost.","timestamp":"2025-12-04 12:22:25,449+0530","service":"FyersDataSocket"}
